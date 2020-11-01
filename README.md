@@ -6,8 +6,14 @@
 
 # react-shop-ko
 
+- Sample shopping site
 - react
 - mongoDB
 - AWS
 - node.js
 
+<br />
+
+![스크린샷 2020-11-02 01 57 26](https://user-images.githubusercontent.com/49246683/97809421-1a89ea80-1cb0-11eb-8c60-0449815f334b.png)<br />
+![스크린샷 2020-11-02 01 56 26](https://user-images.githubusercontent.com/49246683/97809414-15c53680-1cb0-11eb-975e-c052c7627489.png)<br />
+![스크린샷 2020-11-02 01 57 11](https://user-images.githubusercontent.com/49246683/97809420-19f15400-1cb0-11eb-8008-cf49e3071f66.png)<br />
