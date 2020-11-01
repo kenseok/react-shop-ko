@@ -5,3 +5,9 @@
 <br />
 
 # react-shop-ko
+
+- react
+- mongoDB
+- AWS
+- node.js
+
